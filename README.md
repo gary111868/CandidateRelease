@@ -1,0 +1,2 @@
+# CandidateRelease
+Professional CandidateRelease solution with CandidateRelease-optimized modern-design and enterprise candidaterelease-optimization capabilities
